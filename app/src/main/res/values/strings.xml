@@ -54,6 +54,7 @@
     <string name="help_permissions">Permission RECEIVE_BOOT_COMPLETED: This permission allows the app to check right after booting of the device if the user wants to get informed about an upcoming deadline. Tracking, advertisement or other permissions do not exist.</string>
     <string name="help_widget">In addition, this app provides a widget that you can add to your homescreen. The widget presents you tasks that belong to a chosen list. Clicking on a task leads you to the main view of the app. The synchronize button can update the list of tasks shown.</string>
 
+    <!--        THE FOLLOWING FILES WERE MODIFIED BY STONECO"-->
 
     <!-- About -->
     <string name="about">About</string>
@@ -64,6 +65,9 @@
     <string name="about_affiliation">In affiliation with</string>
     <string name="privacy_friendly">This application belongs to the group of Privacy Friendly Apps developed by Technische Universität Darmstadt. Sourcecode licensed under Apache license. Images copyright TU Darmstadt and Google Inc.</string>
     <string name="more_info">More information can be found on:</string>
+    <string name="copyright_description">Copyright 2022 SECUSO\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at: http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="github" translatable="false"><a href="https://github.com/SecUSo/privacy-friendly-todo-list">Github-Repo</a></string>
     <string name="url" translatable="false"><a href="https://www.secuso.org/pfa">SECUSO-Website</a></string>
 

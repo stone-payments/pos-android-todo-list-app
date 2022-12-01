@@ -43,8 +43,7 @@ public class AboutActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
 
-        ((TextView) findViewById(R.id.secusoWebsite)).setMovementMethod(LinkMovementMethod.getInstance());
-        ((TextView) findViewById(R.id.githubURL)).setMovementMethod(LinkMovementMethod.getInstance());
+        //THE FOLLOWING FILES WERE MODIFIED BY STONECO
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_about);
 
