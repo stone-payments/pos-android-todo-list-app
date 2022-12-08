@@ -1,4 +1,5 @@
 <resources>
+    <!--    THE FOLLOWING FILES WERE MODIFIED BY STONECO-->
     <!-- Application Specific -->
     <string name="app_name">To-Do List</string>
     <string name="app_name_long">Privacy Friendly To-Do List</string>

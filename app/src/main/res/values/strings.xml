@@ -55,8 +55,6 @@
     <string name="help_permissions">Permissão RECEIVE_BOOT_COMPLETED: Essa permissão permite que o aplicativo verifique após a inicialização do dispositivo se o usuário quer ser informado sobre um prazo próximo. Permissões de rastreamento, propaganda ou outras não existem.</string>
     <string name="help_widget">Em adição, este aplicativo pode ser adicionado à sua tela inicial. O atalho mostra tarefas que pertencem à uma lista escolhida. Clicar numa tarefa o leva para a visualização do aplicativo. O botão de sincronização pode atualizar a lista mostrada.</string>
 
-    <!--        THE FOLLOWING FILES WERE MODIFIED BY STONECO"-->
-
     <!-- About -->
     <string name="about">Sobre</string>
     <string name="version_number">Versão v%s</string>
