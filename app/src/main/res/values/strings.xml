@@ -41,11 +41,11 @@
     <string name="help_intro">O aplicativo pode ser usado para manter as tarefas em mente e organizar um cronograma pessoal.</string>
     <string name="help_group_lists">Gestão de tarefas</string>
     <string name="help_todo_lists_title">Listas de tarefas</string>
-    <string name="help_todo_lists">Uma lista de tarefa é um grupo de tarefas que pode ser criado usando o botão "+". As listas aparecem no menu de navegação e podem ser acessadas por lá. Taregas dentro de uma lista podem ser marcadas, editadas e deletadas.</string>
+    <string name="help_todo_lists">Uma lista de tarefa é um grupo de tarefas que pode ser criado usando o botão "+". As listas aparecem no menu de navegação e podem ser acessadas por lá. Tarefas dentro de uma lista podem ser marcadas, editadas e deletadas.</string>
     <string name="help_subtasks_title">Subtarefas</string>
     <string name="help_subtasks">Subtarefas podes ser anexadas a uma tarefa para representar passos menores a serem cumpridos. Eles podem ser criados através de um clique em uma tarefa ao visualizar uma lista.</string>
     <string name="help_deadline_reminder_title">Prazos e lembretes</string>
-    <string name="help_deadline_reminder">Prazos e lembretes pode ser criados apenas para tarefas. Você pode especificá-los enquanto cria ou edita a tarefa. Mantenha o dedo pressionado sobre uma tarefa para editá-la.</string>
+    <string name="help_deadline_reminder">Prazos e lembretes podem ser criados apenas para tarefas. Você pode especificá-los enquanto cria ou edita a tarefa. Mantenha o dedo pressionado sobre uma tarefa para editá-la.</string>
     <string name="help_group_app">Configurações</string>
     <string name="help_pin_title">Configurações</string>
     <string name="help_pin">Abra o menu de configurações para estabelecer um PIN de proteção para o seu aplicativo. O PIN precisa ser um número com pelo menos 4 dígitos. Você terá que digitá-lo toda vez que abrir seu aplicativo.</string>
