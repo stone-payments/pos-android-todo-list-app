@@ -12,6 +12,9 @@ width="120px"
 align="right"
 style="float: right; margin-right: 10px;" />
 
+        //THE FOLLOWING FILES WERE MODIFIED BY STONECO
+To clone the project use the following command: git clone --recurse-submodules git@github.com:stone-payments/pos-android-todo-list-app.git
+
 # Privacy Friendly To-Do List
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlytodolist) <a href="https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlynotes"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>

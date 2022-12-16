@@ -6,6 +6,8 @@
     android:layout_height="match_parent"
     android:background="#FFFFFF">
 
+    <!--        THE FOLLOWING FILES WERE MODIFIED BY STONECO"-->
+
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/main_content"
@@ -112,23 +114,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="15dp"
             android:gravity="center"
-            android:text="@string/more_info" />
-
-        <TextView
-            android:id="@+id/secusoWebsite"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/url"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/githubURL"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/github"
-            android:textStyle="bold" />
+            android:text="@string/copyright_description" />
 
     </LinearLayout>
 
